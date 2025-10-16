@@ -1,4 +1,4 @@
-Este proyecto, presenta el **diseño, la implementación y la evaluación de CanBot**, un **chatbot híbrido** para la recomendación de experiencias turísticas en Cantabria.
+Este proyecto, presenta el **diseño, la implementación y la evaluación de CanBot**, un **chatbot híbrido** para la **recomendación de experiencias turísticas en Cantabria**.
 
 El sistema combina técnicas de aprendizaje automático clásico, aprendizaje profundo y modelos generativos del lenguaje (LLM) con el fin de ofrecer recomendaciones adecuadas y coherentes.
 
