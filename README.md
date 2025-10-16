@@ -4,7 +4,7 @@ El sistema combina técnicas de aprendizaje automático clásico, aprendizaje pr
 
 **Archivos incluidos**:
 
-- CanBot.ipynb: cuaderno de Google Colab con la implementación completa del sistema (entrenamiento, evaluación y flujo híbrido).
+- CanBot.ipynb: cuaderno de Google Colab con la implementación completa del sistema (diseño, entrenamiento, evaluación y flujo híbrido).
 
 - Manual_de_diseño_CanBot.pdf: documento técnico con la descripción detallada de la arquitectura, metodología y evaluación del sistema.
 
